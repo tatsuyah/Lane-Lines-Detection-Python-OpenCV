@@ -1,6 +1,10 @@
 
 # Lane Line Detection using Python and OpenCV
 
+## Overview
+
+This project aims to detect lane lines based on the view of vehicle mounted camera using OpenCV. 
+
 
 Original             |  Result
 :-------------------------:|:-------------------------:
