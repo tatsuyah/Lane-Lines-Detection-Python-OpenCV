@@ -5,6 +5,8 @@
 
 This project aims to detect lane lines based on the view of vehicle mounted camera using OpenCV. 
 
+[Demo video](https://www.youtube.com/watch?v=ftyVmj4-_z8)
+
 
 Original             |  Result
 :-------------------------:|:-------------------------:
